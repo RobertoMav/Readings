@@ -1,0 +1,22 @@
+Agents:
+	1. ReAct: https://arxiv.org/pdf/2210.03629
+	2. Reflexion: https://arxiv.org/pdf/2303.11366
+Math:
+	1. KAN: Printed
+
+LLM:
+	1. AlphaMath: https://arxiv.org/pdf/2405.03553
+	2. Are Emergent Abilities of Large Language Models a Mirage?: https://arxiv.org/pdf/2304.15004
+	3. Many-Shot In-Context Learning: https://arxiv.org/pdf/2404.11018
+	4. Parameter Efficient Fine Tuning: A Comprehensive Analysis Across Applications: https://arxiv.org/pdf/2404.13506
+	5. Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?: https://arxiv.org/pdf/2405.05904
+
+Tokenizers:
+	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
+        2. Learning to Compress Prompts with Gist Tokens: https://arxiv.org/pdf/2304.08467
+
+Compute:
+	1. Scaling Laws for Neural Language Models: https://arxiv.org/pdf/2001.08361
+        2. Training Compute-Optimal Large Language Models: https://arxiv.org/pdf/2203.15556
+        3. Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton: https://arxiv.org/pdf/1405.6903
+        4. Neural Turing Machines: https://arxiv.org/pdf/1410.5401
