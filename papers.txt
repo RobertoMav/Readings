@@ -2,15 +2,19 @@ Agents:
 	1. ReAct: https://arxiv.org/pdf/2210.03629
 	2. Reflexion: https://arxiv.org/pdf/2303.11366
 	3. What are Tools anyway: https://arxiv.org/pdf/2403.15452
-ML/Math:
+
+ML/Math/RL:
 	1. KAN: Printed
 	2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497
+	3. PPO: https://arxiv.org/pdf/1707.06347
+
 LLM:
 	1. AlphaMath: https://arxiv.org/pdf/2405.03553
 	2. Are Emergent Abilities of Large Language Models a Mirage?: https://arxiv.org/pdf/2304.15004
 	3. Many-Shot In-Context Learning: https://arxiv.org/pdf/2404.11018
 	4. Parameter Efficient Fine Tuning: A Comprehensive Analysis Across Applications: https://arxiv.org/pdf/2404.13506
 	5. Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?: https://arxiv.org/pdf/2405.05904
+	6. SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales: https://arxiv.org/pdf/2405.20974
 
 Tokenizers:
 	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
