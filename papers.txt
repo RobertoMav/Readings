@@ -1,27 +1,36 @@
 Agents:
-	1. ReAct: https://arxiv.org/pdf/2210.03629
-	2. Reflexion: https://arxiv.org/pdf/2303.11366
-	3. What are Tools anyway: https://arxiv.org/pdf/2403.15452
+	1. ReAct: https://arxiv.org/pdf/2210.03629 (PRINTED)
+	2. Reflexion: https://arxiv.org/pdf/2303.11366 (PRINTED)
+	3. What are Tools anyway: https://arxiv.org/pdf/2403.15452 (PRINTED)
+
+	4. Mixture-of-Agents Enhances Large Language Model Capabilities: https://arxiv.org/pdf/2406.04692
+	5. Agents that Matter: https://arxiv.org/pdf/2407.01502
 
 ML/Math/RL:
-	1. KAN: Printed
-	2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497
-	3. PPO: https://arxiv.org/pdf/1707.06347
+	1. KAN: (Printed)
+	2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497 (PRINTED)
+	3. PPO: https://arxiv.org/pdf/1707.06347 (PRINTED)
+	4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1
+	5. Just How Flexible are Neural Networks in Practice: https://arxiv.org/pdf/2406.11463
 
 LLM:
-	1. AlphaMath: https://arxiv.org/pdf/2405.03553
-	2. Are Emergent Abilities of Large Language Models a Mirage?: https://arxiv.org/pdf/2304.15004
-	3. Many-Shot In-Context Learning: https://arxiv.org/pdf/2404.11018
+	1. AlphaMath: https://arxiv.org/pdf/2405.03553 (PRINTED)
+	2. Are Emergent Abilities of Large Language Models a Mirage?: https://arxiv.org/pdf/2304.15004 (PRINTED)
+	3. Many-Shot In-Context Learning: https://arxiv.org/pdf/2404.11018 (PRINTED)
 	4. Parameter Efficient Fine Tuning: A Comprehensive Analysis Across Applications: https://arxiv.org/pdf/2404.13506
-	5. Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?: https://arxiv.org/pdf/2405.05904
-	6. SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales: https://arxiv.org/pdf/2405.20974
+	5. Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?: https://arxiv.org/pdf/2405.05904 (PRINTED)
+	6. SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales: https://arxiv.org/pdf/2405.2097 (PRINTED)
+
+	7. The Remarkable Robustness of LLMs: Stages of Inference: https://arxiv.org/pdf/2406.19384
+	8. DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS: https://arxiv.org/pdf/2309.03883
+	9. AGENTLESS: Demystifying LLM-based Software Engineering Agents: https://arxiv.org/pdf/2407.01489
 
 Tokenizers:
 	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
         2. Learning to Compress Prompts with Gist Tokens: https://arxiv.org/pdf/2304.08467
 
 Compute:
-	1. Scaling Laws for Neural Language Models: https://arxiv.org/pdf/2001.08361
-        2. Training Compute-Optimal Large Language Models: https://arxiv.org/pdf/2203.15556
-        3. Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton: https://arxiv.org/pdf/1405.6903
-        4. Neural Turing Machines: https://arxiv.org/pdf/1410.5401
+	1. Scaling Laws for Neural Language Models: https://arxiv.org/pdf/2001.08361 (PRINTED)
+        2. Training Compute-Optimal Large Language Models: https://arxiv.org/pdf/2203.15556 (PRINTED)
+        3. Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton: https://arxiv.org/pdf/1405.6903 (PRINTED)
+        4. Neural Turing Machines: https://arxiv.org/pdf/1410.5401 (PRINTED)
