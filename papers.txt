@@ -2,16 +2,20 @@ Agents:
 	1. ReAct: https://arxiv.org/pdf/2210.03629 (PRINTED)
 	2. Reflexion: https://arxiv.org/pdf/2303.11366 (PRINTED)
 	3. What are Tools anyway: https://arxiv.org/pdf/2403.15452 (PRINTED)
-
 	4. Mixture-of-Agents Enhances Large Language Model Capabilities: https://arxiv.org/pdf/2406.04692
 	5. Agents that Matter: https://arxiv.org/pdf/2407.01502
 
 ML/Math/RL:
-	1. KAN: (Printed)
-	2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497 (PRINTED)
-	3. PPO: https://arxiv.org/pdf/1707.06347 (PRINTED)
-	4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1
-	5. Just How Flexible are Neural Networks in Practice: https://arxiv.org/pdf/2406.11463
+        1. KAN: (Printed)
+        2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497 (PRINTED)
+        3. PPO: https://arxiv.org/pdf/1707.06347 (PRINTED)
+        4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1
+        5. Just How Flexible are Neural Networks in Practice: https://arxiv.org/pdf/2406.11463
+        6. Large Minibatch SGD: https://arxiv.org/pdf/1706.02677
+        7. DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE: https://arxiv.org/pdf/1711.00489
+        8. Emergence in Non-Neural Models: https://arxiv.org/pdf/2407.20199
+        9. Grokked Transformers are Implicit Reasoners: https://arxiv.org/pdf/2405.15071v2
+        10. Train longer, generalize better: https://proceedings.neurips.cc/paper_files/paper/2017/file/a5e0ff62be0b08456fc7f1e88812af3d-Paper.pdf
 
 LLM:
 	1. AlphaMath: https://arxiv.org/pdf/2405.03553 (PRINTED)
@@ -20,10 +24,11 @@ LLM:
 	4. Parameter Efficient Fine Tuning: A Comprehensive Analysis Across Applications: https://arxiv.org/pdf/2404.13506
 	5. Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?: https://arxiv.org/pdf/2405.05904 (PRINTED)
 	6. SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales: https://arxiv.org/pdf/2405.2097 (PRINTED)
-
 	7. The Remarkable Robustness of LLMs: Stages of Inference: https://arxiv.org/pdf/2406.19384
 	8. DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS: https://arxiv.org/pdf/2309.03883
 	9. AGENTLESS: Demystifying LLM-based Software Engineering Agents: https://arxiv.org/pdf/2407.01489
+        10. SURVEY OF PROMPT ENGINEERING METHODS: https://arxiv.org/pdf/2407.12994
+        11. CHATGPT HAVE A MIND: https://www.arxiv.org/pdf/2407.11015
 
 Tokenizers:
 	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
