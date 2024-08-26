@@ -39,3 +39,12 @@ Compute:
         2. Training Compute-Optimal Large Language Models: https://arxiv.org/pdf/2203.15556 (PRINTED)
         3. Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton: https://arxiv.org/pdf/1405.6903 (PRINTED)
         4. Neural Turing Machines: https://arxiv.org/pdf/1410.5401 (PRINTED)
+
+Double Descent:
+	1. Reconciling modern machine learning practice and the bias-variance trade-off: https://arxiv.org/pdf/1812.11118
+	2. Deep double descent: where bigger models and more data hurt: https://iopscience.iop.org/article/10.1088/1742-5468/ac3a74/pdf
+	3. Do We Need Zero Training Loss After Achieving Zero Training Error?: https://arxiv.org/pdf/2002.08709
+	4. A Universal Law of Robustness via Isoperimetry (Overparametrized models = smooth): https://dl.acm.org/doi/pdf/10.1145/3578580
+	5. Deep Double Descent via Smooth Interpolation: https://arxiv.org/pdf/2209.10080
+	6. Multi-scale Feature Learning Dynamics: Insights for Double Descent: https://proceedings.mlr.press/v162/pezeshki22a/pezeshki22a.pdf
+	7. Do we really need a new theory to understand over-parameterization?: https://www.sciencedirect.com/science/article/pii/S0925231223003508
