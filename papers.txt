@@ -9,7 +9,7 @@ ML/Math/RL:
         1. KAN: (Printed)
         2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497 (PRINTED)
         3. PPO: https://arxiv.org/pdf/1707.06347 (PRINTED)
-        4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1
+        4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1 
         5. Just How Flexible are Neural Networks in Practice: https://arxiv.org/pdf/2406.11463
         6. Large Minibatch SGD: https://arxiv.org/pdf/1706.02677
         7. DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE: https://arxiv.org/pdf/1711.00489
@@ -28,7 +28,7 @@ LLM:
 	8. DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS: https://arxiv.org/pdf/2309.03883
 	9. AGENTLESS: Demystifying LLM-based Software Engineering Agents: https://arxiv.org/pdf/2407.01489
         10. SURVEY OF PROMPT ENGINEERING METHODS: https://arxiv.org/pdf/2407.12994
-        11. CHATGPT HAVE A MIND: https://www.arxiv.org/pdf/2407.11015
+        11. CHATGPT HAS A MIND: https://www.arxiv.org/pdf/2407.11015
 
 Tokenizers:
 	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
