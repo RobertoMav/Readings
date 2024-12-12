@@ -6,16 +6,20 @@ Agents:
 	5. Agents that Matter: https://arxiv.org/pdf/2407.01502
 
 ML/Math/RL:
-        1. KAN: (Printed)
-        2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497 (PRINTED)
-        3. PPO: https://arxiv.org/pdf/1707.06347 (PRINTED)
-        4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1 
-        5. Just How Flexible are Neural Networks in Practice: https://arxiv.org/pdf/2406.11463
-        6. Large Minibatch SGD: https://arxiv.org/pdf/1706.02677
-        7. DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE: https://arxiv.org/pdf/1711.00489
-        8. Emergence in Non-Neural Models: https://arxiv.org/pdf/2407.20199
-        9. Grokked Transformers are Implicit Reasoners: https://arxiv.org/pdf/2405.15071v2
-        10. Train longer, generalize better: https://proceedings.neurips.cc/paper_files/paper/2017/file/a5e0ff62be0b08456fc7f1e88812af3d-Paper.pdf
+	1. KAN: (Printed)
+	2. How to avoid ML pitfalls: https://arxiv.org/pdf/2108.02497 (PRINTED)
+	3. PPO: https://arxiv.org/pdf/1707.06347 (PRINTED)
+	4. Transcendence: Generative Models Can Outperform The Experts That Train Them: https://arxiv.org/pdf/2406.11741v1 (PRINTED)
+	5. Just How Flexible are Neural Networks in Practice: https://arxiv.org/pdf/2406.11463
+	6. Large Minibatch SGD: https://arxiv.org/pdf/1706.02677
+	7. DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE: https://arxiv.org/pdf/1711.00489
+	8. Emergence in Non-Neural Models: https://arxiv.org/pdf/2407.20199
+	9. Grokked Transformers are Implicit Reasoners: https://arxiv.org/pdf/2405.15071v2
+	10. Train longer, generalize better: https://proceedings.neurips.cc/paper_files/paper/2017/file/a5e0ff62be0b08456fc7f1e88812af3d-Paper.pdf
+	11. Intelligence at the Edge of Chaos: https://www.arxiv.org/pdf/2410.02536
+	12. Shortcut Learning in Deep Neural Networks: https://arxiv.org/pdf/2004.07780
+	13: Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling: https://arxiv.org/pdf/2405.14578
+	14: Deep Reinforcement Learning that Matters: https://arxiv.org/pdf/1709.06560
 
 LLM:
 	1. AlphaMath: https://arxiv.org/pdf/2405.03553 (PRINTED)
@@ -27,18 +31,22 @@ LLM:
 	7. The Remarkable Robustness of LLMs: Stages of Inference: https://arxiv.org/pdf/2406.19384
 	8. DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS: https://arxiv.org/pdf/2309.03883
 	9. AGENTLESS: Demystifying LLM-based Software Engineering Agents: https://arxiv.org/pdf/2407.01489
-        10. SURVEY OF PROMPT ENGINEERING METHODS: https://arxiv.org/pdf/2407.12994
-        11. CHATGPT HAS A MIND: https://www.arxiv.org/pdf/2407.11015
+	10. SURVEY OF PROMPT ENGINEERING METHODS: https://arxiv.org/pdf/2407.12994
+	11. CHATGPT HAS A MIND: https://www.arxiv.org/pdf/2407.11015
+	12. Large language models surpass human experts in predicting neuroscience results: file:///Users/rmartin0/Downloads/s41562-024-02046-9.pdf
+	13. LLM as a Judge - a Survey: https://arxiv.org/pdf/2411.15594
+	14: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks: https://arxiv.org/pdf/2406.02550
+	15: Learning Formal Mathematics From Intrinsic Motivation: https://arxiv.org/pdf/2407.00695
 
 Tokenizers:
 	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
-        2. Learning to Compress Prompts with Gist Tokens: https://arxiv.org/pdf/2304.08467
+	2. Learning to Compress Prompts with Gist Tokens: https://arxiv.org/pdf/2304.08467
 
 Compute:
 	1. Scaling Laws for Neural Language Models: https://arxiv.org/pdf/2001.08361 (PRINTED)
-        2. Training Compute-Optimal Large Language Models: https://arxiv.org/pdf/2203.15556 (PRINTED)
-        3. Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton: https://arxiv.org/pdf/1405.6903 (PRINTED)
-        4. Neural Turing Machines: https://arxiv.org/pdf/1410.5401 (PRINTED)
+	2. Training Compute-Optimal Large Language Models: https://arxiv.org/pdf/2203.15556 (PRINTED)
+	3. Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton: https://arxiv.org/pdf/1405.6903 (PRINTED)
+	4. Neural Turing Machines: https://arxiv.org/pdf/1410.5401 (PRINTED)
 
 Double Descent:
 	1. Reconciling modern machine learning practice and the bias-variance trade-off: https://arxiv.org/pdf/1812.11118
