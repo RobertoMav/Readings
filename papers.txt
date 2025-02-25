@@ -37,6 +37,7 @@ LLM:
 	13. LLM as a Judge - a Survey: https://arxiv.org/pdf/2411.15594
 	14: Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks: https://arxiv.org/pdf/2406.02550
 	15: Learning Formal Mathematics From Intrinsic Motivation: https://arxiv.org/pdf/2407.00695
+	16. Large Language Diffusion Models: https://arxiv.org/pdf/2502.09992
 
 Tokenizers:
 	1. MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers: https://arxiv.org/pdf/2305.07185
