@@ -58,3 +58,4 @@ Double Descent/Learning:
 	6. Multi-scale Feature Learning Dynamics: Insights for Double Descent: https://proceedings.mlr.press/v162/pezeshki22a/pezeshki22a.pdf
 	7. Do we really need a new theory to understand over-parameterization?: https://www.sciencedirect.com/science/article/pii/S0925231223003508
 	8. GROKKING AT THE EDGE OF NUMERICAL STABILITY: https://arxiv.org/pdf/2501.04697
+	9. https://arxiv.org/pdf/2506.22084
